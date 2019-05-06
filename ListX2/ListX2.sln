@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListX2", "ListX2\ListX2.csproj", "{4DF66C8E-002E-4236-AC82-556EB21B69B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListX2.Tests", "ListX2.Tests\ListX2.Tests.csproj", "{E0887A2E-D50D-4C6F-BBF8-9D0B8B847188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF66C8E-002E-4236-AC82-556EB21B69B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF66C8E-002E-4236-AC82-556EB21B69B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF66C8E-002E-4236-AC82-556EB21B69B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF66C8E-002E-4236-AC82-556EB21B69B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0887A2E-D50D-4C6F-BBF8-9D0B8B847188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0887A2E-D50D-4C6F-BBF8-9D0B8B847188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0887A2E-D50D-4C6F-BBF8-9D0B8B847188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0887A2E-D50D-4C6F-BBF8-9D0B8B847188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D126A7E7-367E-47DB-9BCB-ADBB39836ED2}
+	EndGlobalSection
+EndGlobal

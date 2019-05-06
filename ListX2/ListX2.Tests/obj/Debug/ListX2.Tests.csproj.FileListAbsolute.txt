@@ -1,0 +1,17 @@
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\bin\Debug\ListX2.Tests.dll
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\bin\Debug\ListX2.Tests.pdb
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\bin\Debug\ListX2.dll
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\bin\Debug\ListX2.pdb
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\bin\Debug\ListX2.dll.config
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\obj\Debug\ListX2.Tests.csprojAssemblyReference.cache
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\obj\Debug\ListX2.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\obj\Debug\ListX2.Tests.csproj.CopyComplete
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\obj\Debug\ListX2.Tests.dll
+C:\Users\Slepz\source\repos\ListX2\ListX2.Tests\obj\Debug\ListX2.Tests.pdb
